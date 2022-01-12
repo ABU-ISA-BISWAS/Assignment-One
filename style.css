@@ -1,0 +1,159 @@
+
+section{
+    display: flex;
+}
+p{
+    text-align: justify;
+    font-size: 18px;
+}
+h1{
+    font-size: 60px;
+}
+.button{
+    color: rgb(250, 243, 243);
+    background-color: brown;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, brown);
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.dis-flex{
+    display: flex;
+}
+
+#first-sec-margin{
+    margin-left: 60px;
+    margin-top: 80px;
+}
+.half-width{
+    width: 50%;
+    padding-right: 40px;
+}
+.half-width img{
+    width: 80%;
+    padding-left: 120px;
+    height: 100%;
+   
+    
+}
+.half-width-1{
+    width: 45%;
+    padding-right: 40px;
+    padding-left: 50px;
+    margin-top: 110px;
+
+
+}
+.div-one-border{
+    border-left: 5px solid rgb(233, 127, 88);
+    padding-left: 10px;
+    border-
+}
+.p-margin{
+    margin-bottom: 30px;
+}
+.second-section-p{
+    text-align: center;
+    margin-left: 450px;
+    font-size: 45px;
+    font-weight: bold;
+    
+}
+.one-third-width{
+   
+   width: 20%;
+   height: 350px;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-left: 70px;
+   border-radius: 10px;
+  
+    
+    
+}
+
+#one-third-width-div1{
+    background-color: rgb(238, 236, 226);
+    margin-left: 120px;
+
+}
+
+#one-third-width-div2{
+    background-color: rgb(221, 241, 241);
+}
+#one-third-width-div3{
+    background-color: rgb(206, 217, 247);
+}
+.box-image{
+    width: 100px;
+    height: 100px;
+    padding-top: 10px;
+}
+#coding-image{
+    height: 350px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 80px;
+    
+}
+.h1-font{
+    font-size: 40px;
+}
+#bg-image1{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
+    margin-left: 40px;
+}
+#bg-image2{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 200px;
+    background-position-y: bottom;
+    margin-right: 20px;
+}
+.six-section-p{
+    text-align: center;
+    margin-left: 450px;
+    font-size: 45px;
+    font-weight: bold;
+    
+}
+#app-image{
+    height: 500px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 80px;
+    
+}
+
+#bg-image3{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position-y: bottom ;
+    background-position-x: right;
+    margin-left: 50px;
+    
+}
+#bg-image4{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left top;
+    
+}
+#footer{
+    background-color: black;
+    width: 100%;
+    height: 180px;
+}
+#footer-h2{
+    font-size: 40px;
+    padding: 20px;
+}
+
